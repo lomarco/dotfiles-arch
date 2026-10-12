@@ -1,3 +1,7 @@
 ^\.git
 .*\.md
 LICENSE
+base-aur-packages
+base-packages
+extra-aur-packages
+extra-packages
